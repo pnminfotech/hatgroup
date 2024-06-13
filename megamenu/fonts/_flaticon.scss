@@ -1,0 +1,102 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 28/12/2020 11:40
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-couch:before { content: "\f100"; }
+.flaticon-armchair:before { content: "\f101"; }
+.flaticon-chair:before { content: "\f102"; }
+.flaticon-chair-1:before { content: "\f103"; }
+.flaticon-office-chair:before { content: "\f104"; }
+.flaticon-office-chair-1:before { content: "\f105"; }
+.flaticon-folding-chair:before { content: "\f106"; }
+.flaticon-table:before { content: "\f107"; }
+.flaticon-workspace:before { content: "\f108"; }
+.flaticon-dining-table:before { content: "\f109"; }
+.flaticon-desk:before { content: "\f10a"; }
+.flaticon-bed:before { content: "\f10b"; }
+.flaticon-armchair-1:before { content: "\f10c"; }
+.flaticon-sofa:before { content: "\f10d"; }
+.flaticon-data-storage:before { content: "\f10e"; }
+.flaticon-storage:before { content: "\f10f"; }
+.flaticon-closet:before { content: "\f110"; }
+.flaticon-file-cabinet:before { content: "\f111"; }
+.flaticon-cabinet:before { content: "\f112"; }
+.flaticon-closet-1:before { content: "\f113"; }
+.flaticon-bed-1:before { content: "\f114"; }
+.flaticon-bedroom:before { content: "\f115"; }
+.flaticon-vanity-mirror:before { content: "\f116"; }
+.flaticon-kitchen:before { content: "\f117"; }
+.flaticon-bookcase:before { content: "\f118"; }
+.flaticon-kitchen-1:before { content: "\f119"; }
+.flaticon-home-cinema:before { content: "\f11a"; }
+.flaticon-living-room:before { content: "\f11b"; }
+.flaticon-workstation:before { content: "\f11c"; }
+.flaticon-knowledge:before { content: "\f11d"; }
+.flaticon-classroom:before { content: "\f11e"; }
+    
+    $font-Flaticon-couch: "\f100";
+    $font-Flaticon-armchair: "\f101";
+    $font-Flaticon-chair: "\f102";
+    $font-Flaticon-chair-1: "\f103";
+    $font-Flaticon-office-chair: "\f104";
+    $font-Flaticon-office-chair-1: "\f105";
+    $font-Flaticon-folding-chair: "\f106";
+    $font-Flaticon-table: "\f107";
+    $font-Flaticon-workspace: "\f108";
+    $font-Flaticon-dining-table: "\f109";
+    $font-Flaticon-desk: "\f10a";
+    $font-Flaticon-bed: "\f10b";
+    $font-Flaticon-armchair-1: "\f10c";
+    $font-Flaticon-sofa: "\f10d";
+    $font-Flaticon-data-storage: "\f10e";
+    $font-Flaticon-storage: "\f10f";
+    $font-Flaticon-closet: "\f110";
+    $font-Flaticon-file-cabinet: "\f111";
+    $font-Flaticon-cabinet: "\f112";
+    $font-Flaticon-closet-1: "\f113";
+    $font-Flaticon-bed-1: "\f114";
+    $font-Flaticon-bedroom: "\f115";
+    $font-Flaticon-vanity-mirror: "\f116";
+    $font-Flaticon-kitchen: "\f117";
+    $font-Flaticon-bookcase: "\f118";
+    $font-Flaticon-kitchen-1: "\f119";
+    $font-Flaticon-home-cinema: "\f11a";
+    $font-Flaticon-living-room: "\f11b";
+    $font-Flaticon-workstation: "\f11c";
+    $font-Flaticon-knowledge: "\f11d";
+    $font-Flaticon-classroom: "\f11e";
